@@ -1,0 +1,3 @@
+target
+*.csv
+avg/src/main/resources/output
